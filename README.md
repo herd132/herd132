@@ -38,9 +38,10 @@ Spring Boot를 활용한 개발을 주로 하며, 안정적인 서비스를 만�
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
 </p>
 
-### 🚀 Featured Projects  
-- **[프로젝트 1](https://github.com/herd132/MiniHomepage)** - 미니홈페이지
-- **[프로젝트 2](https://github.com/herd132/JobBuilder)** - 구인/구직 사이트 
+### 🚀 Featured Projects 
+프로젝트
+- **[미니홈페이지](https://github.com/herd132/MiniHomepage)** 
+- **[구인/구직 사이트](https://github.com/herd132/JobBuilder)**  
   - 🔗 **Live Site:** [404 Not Fun](http://404notfun.store/) 
 
 <br>
