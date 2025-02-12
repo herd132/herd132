@@ -39,7 +39,7 @@ Spring Boot를 활용한 개발을 주로 하며, 안정적인 서비스를 만�
 </p>
 
 ### 🚀 Featured Projects  
-- **[프로젝트 1](https://github.com/herd132/project1)** - 미니홈페이지 구현 (이미지 파트)  
+- **[프로젝트 1](https://github.com/herd132/project1)** - 미니홈페이지
 - **[프로젝트 2](https://github.com/herd132/JobBuilder)** - 구인/구직 사이트 
   - 🔗 **Live Site:** [404 Not Fun](http://404notfun.store/) 
 
