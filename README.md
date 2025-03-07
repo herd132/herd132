@@ -41,7 +41,8 @@
 
 ### 🚀 Featured Projects 
 프로젝트
-- **[미니홈페이지](https://github.com/herd132/MiniHomepage)** 
+- **[미니홈페이지](https://github.com/herd132/MiniHomepage)**
+  - 🔗 **Live Site:** [2yearsapart](http://2yearsapart.store/)  
 - **[구인/구직 사이트](https://github.com/herd132/JobBuilder)**  
   - 🔗 **Live Site:** [404 Not Fun](http://404notfun.store/) 
 
